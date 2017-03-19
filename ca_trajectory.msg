@@ -1,0 +1,4 @@
+uint32 time_start_usec
+uint32 time_stop_usec
+uint32 coefficients
+uint8 seq_id
